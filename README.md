@@ -1,7 +1,7 @@
 ## Python Course Projects
-Este repositório contém pequenos projetos desenvolvidos em um curso de Python que abrange quatro áreas principais:
+This repository contains small projects developed in a Python course covering four main areas:
 
-- [Automação de Tarefas](./Task%20Automation): Scripts para automatizar tarefas do dia a dia.
-- [Análise de Dados](./Data%20Analysis): Exemplos de manipulação e visualização de dados.
-- [Inteligência Artificial](./Artificial%20Intelligence): Introdução a redes neurais e aprendizado de máquina.
-- [Desenvolvimento Web](./Web%20Development): Construção de uma aplicação web usando frameworks Python.
+- [Task Automation](./Task%20Automation): Scripts to automate daily tasks.
+- [Data Analysis](./Data%20Analysis): Examples of data manipulation and visualization.
+- [Artificial Intelligence](./Artificial%20Intelligence): Introduction to neural networks and machine learning.
+- [Web Development](./Web%20Development): Building a web application using Python frameworks.
